@@ -31,9 +31,12 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/assets/css/material.scss",
+              "src/assets/css/styles.scss"
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/tinycolor2/dist/tinycolor-min.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -99,9 +102,12 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/assets/css/material.scss",
+              "src/assets/css/styles.scss"
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/tinycolor2/dist/tinycolor-min.js"
+            ]
           }
         }
       }
