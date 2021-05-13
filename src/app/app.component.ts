@@ -10,8 +10,8 @@ import Utils from './shared/utils/theme-generator';
 export class AppComponent {
 
   title = 'dynamic-theme';
-  primaryColor = '#0073bb';  // default
-  secondaryColor = "#00913f";  // default
+  primaryColor = '#0073bb';  // defaulttt
+  secondaryColor = "#00913f";  // defaulttt
   primaryColorPalette: IColor[] = [];
   accentColorPalette: IColor[] = [];
 
